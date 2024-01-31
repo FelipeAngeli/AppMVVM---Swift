@@ -5,7 +5,7 @@
 
 Este projeto exemplifica a aplicação da arquitetura Model-View-ViewModel (MVVM) em Swift para o desenvolvimento de aplicativos iOS. A arquitetura MVVM promove uma separação mais clara de responsabilidades, facilitando a manutenção e a testabilidade, ao dividir a lógica de negócios e a lógica de UI.
 
-## 🚀 Estrutura do Projeto
+## 🏗️ Estrutura do Projeto
 
 O projeto segue a estrutura MVVM, que é organizada da seguinte maneira:
 
